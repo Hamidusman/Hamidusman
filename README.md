@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdulhamidusman218@gmail.com**
 
-- ❔ Fun fact **Contrary to popular belief, Antartica fits the charataristics of a desert, thus making it the largest on earth**
+- ❔ Fun fact **Contrary to popular belief, Antartica fits the criteria of a desert, thus making it the largest on earth**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
