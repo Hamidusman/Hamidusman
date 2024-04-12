@@ -1,20 +1,20 @@
-<h1 align="center">Hey There👋, I'm Abdulhamid Usman (Or hamid for short)</h1>
-<h3 align="center">A silled backend developer specialized in building robust and scalable web applications base in Nigeria..</h3>
+<h1 align="center">Hello, World! I'm Hamid Usman 👋</h1>
+<h3 align="center">A skilled backend developer specialized in building robust and scalable web applications...👀</h3>
 <img src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidusman&label=Profile%20views&color=0e75b6&style=flat" alt="hamidusman" /> </p>
 
-- 🔭 I’m currently working on **A lot of Backend projects**
+- 🛠 I’m currently working on **A lot of Backend projects**
 
-- 🌱 I’m currently learning **API Development**
+- 📙 I’m currently learning **API Development**
 
-- 👯 I’d be happy to collaborate on **Any Project**
+- 🤝 I’d be happy to collaborate on **Any Project**
 
 - 💬 Ask me about **Python, Django and APIs**
 
 - 📫 How to reach me **abdulhamidusman218@gmail.com**
 
-- ⚡ Fun fact **Contrary to popular beliefs, Antartica fits the charataristics of a desert, thus making it the largest on earth**
+- ❔ Fun fact **Contrary to popular belief, Antartica fits the charataristics of a desert, thus making it the largest on earth**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
