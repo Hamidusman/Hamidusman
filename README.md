@@ -4,7 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidusman&label=Profile%20views&color=0e75b6&style=flat" alt="hamidusman" /> </p>
 
-<h3>- 🛠 I’m currently working on **A lot of Backend projects**
+## My Stack
+I specialize in a wide range of technologies, including:
+
+- **Django** for backend development
+- **PostgreSQL** for database management
+- **React**, and **Tailwind** for frontend development
+- **Selenium** and **Scrapy** for web scraping and automation
+
+
+<h3>- 🛠 At the moment, I am working on VitalHelp. A Telemedicine Web Application
 
 - 📙 I’m currently learning **API Development**
 
