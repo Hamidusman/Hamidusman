@@ -13,7 +13,7 @@ I specialize in a wide range of technologies, including:
 - **Selenium** and **Scrapy** for web scraping and automation
 
 
-## 🛠 At the moment, I am working on VitalHelp. A Telemedicine Web Application
+## 🛠 At the moment, I am working on Kauna: A Telemedicine Web Application
 
 - 📙 I’m currently learning **API Development**
 
