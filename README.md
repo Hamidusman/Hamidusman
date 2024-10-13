@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I am Hamid</h1>
-<h3 align="center">A Fullstack Developer with over 3 years of experience</h3>
+<h3 align="center">A Fullstack Developer with 4 years of hands-on experience</h3>
 <img src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidusman&label=Profile%20views&color=0e75b6&style=flat" alt="hamidusman" /> </p>
@@ -8,18 +8,18 @@
 I specialize in a wide range of technologies, including:
 
 - **Django** for backend development
-- **PostgreSQL** for database management
-- **React**, and **Tailwind** for frontend development
+- **SupaBase** for database management
+- **React** and **Tailwind** for frontend development
 - **Selenium** and **Scrapy** for web scraping and automation
 
 
-## 🛠 At the moment, I am working on Kauna: A Telemedicine Web Application
+## 🛠 At the moment, I am working on FixIt: A blue-collar booking webapp
 
-- 📙 I’m currently learning **API Development**
+- 📙 I’m currently learning **System Design**
 
-- 🤝 I’d be happy to collaborate on **Any Project**
+- 🤝 I’d be happy to collaborate on **Multiple Project**
 
-- 💬 Ask me about **Python, Django and APIs**
+- 💬 Ask me about **Python, Django and React**
 
 - 📫 How to reach me **abdulhamidusman218@gmail.com**
 
