@@ -45,6 +45,8 @@ I specialize in a wide range of technologies, including:
 
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hamidusman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidusman&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="hamidusman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidusman&theme=nightowl&" alt="hamidusman" /></p>
